@@ -17,5 +17,5 @@ This Python script submits the solution for Question 1 assigned based on odd reg
 ## Author
 
 - Name: [Mohammad Saqlain Shaikh]
-- Reg No: [0827Al221083]
+- Reg No: [0827AL221083]
 - Email: [mohammadsaqlain221000@acropolis.in]
